@@ -1,0 +1,21 @@
+{
+  "name": "Polymer 3 Example App",
+  "short_name": "Polymer 3 Example App",
+  "description": "Polymer 3 Example App",
+  "icons": [
+    {
+      "src": "images/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5"
+}
